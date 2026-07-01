@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1929-concatenation-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1518-water-bottles) |
 ## Two Pointers
