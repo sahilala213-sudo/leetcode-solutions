@@ -2,22 +2,25 @@ import java.util.*;
 
 class Solution {
     public List<Integer> sequentialDigits(int low, int high) {
-        List<Integer> result = new ArrayList<>();
-        String digits = "123456789";
+        List<Integer> ans = new ArrayList<>();
 
-        int lowLen = String.valueOf(low).length();
-        int highLen = String.valueOf(high).length();
+        for (int start = 1; start <= 9; start++) {
 
-        for (int len = lowLen; len <= highLen; len++) {
-            for (int i = 0; i + len <= 9; i++) {
-                int num = Integer.parseInt(digits.substring(i, i + len));
+            int num = start;
+            int nextDigit = start + 1;
+
+            while (nextDigit <= 9) {
+                num = num * 10 + nextDigit;
 
                 if (num >= low && num <= high) {
-                    result.add(num);
+                    ans.add(num);
                 }
+
+                nextDigit++;
             }
         }
 
-        return result;
+        Collections.sort(ans);
+        return ans;
     }
 }
