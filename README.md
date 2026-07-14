@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1518-water-bottles) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
