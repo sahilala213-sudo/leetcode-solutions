@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1518-water-bottles](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1518-water-bottles) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 ## String
 |  |
 | ------- |
