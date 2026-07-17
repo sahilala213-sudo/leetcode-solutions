@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1518-water-bottles](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1518-water-bottles) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -108,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0268-missing-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Brainteaser
 |  |
 | ------- |
@@ -138,7 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
