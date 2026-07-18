@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1929-concatenation-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1518-water-bottles](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
