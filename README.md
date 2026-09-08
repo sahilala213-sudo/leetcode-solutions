@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0179-largest-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0179-largest-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
