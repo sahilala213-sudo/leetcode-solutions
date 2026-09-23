@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0155-min-stack) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sahilala213-sudo/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
